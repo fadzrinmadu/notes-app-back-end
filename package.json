@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@hapi/hapi": "^20.1.2",
+    "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "eslint-config-airbnb": "^18.2.1",
     "joi": "^17.4.0",
