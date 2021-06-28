@@ -17,7 +17,7 @@ class AuthenticationsHandler {
       this._validator.validatePostAuthenticationPayload(request.payload);
 
       const { username, password } = request.payload;
-      console.log(username, password);
+
       const id = await this._usersService.verifyUserCredential(username, password);
 
       const accessToken = this._tokenManager.generateAccessToken({ id });
@@ -37,7 +37,6 @@ class AuthenticationsHandler {
       response.code(201);
       return response;
     } catch (error) {
-      console.log(error.message);
       if (error instanceof ClientError) {
         const response = h.response({
           status: 'fail',
