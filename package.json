@@ -19,6 +19,7 @@
   "dependencies": {
     "@hapi/hapi": "^20.1.2",
     "@hapi/jwt": "^2.0.1",
+    "amqplib": "^0.8.0",
     "bcrypt": "^5.0.1",
     "dotenv": "^10.0.0",
     "eslint-config-airbnb": "^18.2.1",
