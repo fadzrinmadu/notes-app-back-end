@@ -11,6 +11,7 @@ Notes API build with __Node js__ and __PostgresSQL__ 🌸
 
 
 #### Credits
-Copyright © 2021 Muhammad Fadzrin Madu
 
-Build With 💙
+- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+Copyright © 2021 Muhammad Fadzrin Madu Build With 💙
