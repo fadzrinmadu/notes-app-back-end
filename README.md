@@ -1,4 +1,4 @@
-## Notes API 🧙 🍳
+## Notes API :man_student: :blue_book:
 ---
 
 ![preview](https://github.com/fadzrinmadu/notes-app-back-end/blob/master/assets/banner.png)
