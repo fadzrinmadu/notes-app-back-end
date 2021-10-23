@@ -1,7 +1,7 @@
 ## Notes Application API 🧙 🍳
 ---
 
-![preview](https://github.com/fadzrinmadu/notes-app-back-end/blob/main/assets/banner.png)
+![preview](https://github.com/fadzrinmadu/notes-app-back-end/blob/master/assets/banner.png)
 
 ---
 
