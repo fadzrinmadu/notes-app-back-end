@@ -1,11 +1,11 @@
-## Notes Application API 🧙 🍳
+## Notes API 🧙 🍳
 ---
 
 ![preview](https://github.com/fadzrinmadu/notes-app-back-end/blob/master/assets/banner.png)
 
 ---
 
-Notes application api build with __Node js__ and __PostgresSQL__ 🌸
+Notes API build with __Node js__ and __PostgresSQL__ 🌸
 
 **Status** : Maintained 🚀
 
